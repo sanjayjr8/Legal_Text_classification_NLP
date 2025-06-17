@@ -27,7 +27,7 @@ This project addresses this bottleneck by designing a pipeline to **automate the
   - FOLLOWED
   - RELATED
   - DISCUSSED
-  - [Class 7 Name]
+  
   
 - The dataset was **imbalanced**, with some classes underrepresented.
 
